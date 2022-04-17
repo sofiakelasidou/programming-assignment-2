@@ -1,0 +1,155 @@
+name;type;power;speed;range;stamina;precision;potential;users_name
+Anubis;Natural Humanoid;B;B;E;A;E;C;Caravan Serai
+Atum;Artificial Humanoid;D;C;D;B;D;D;Telence T. D'Arby
+Bastet;Artificial Non-Humanoid;E;E;B;A;E;E;Mariah
+Cream;Natural Humanoid;B;B;D;C;C;D;Vanilla Ice
+Death Thirteen;Artificial Humanoid;C;C;E;B;D;B;Mannish Boy
+Geb;Natural Non-Humanoid;C;B;A;B;D;D;N'Doul
+High Priestess;Natural Humanoid;C;B;A;A;D;D;Midler
+Horus;Natural Non-Humanoid;B;B;D;C;E;C;Pet Shop
+Judgement;Artificial Humanoid;B;B;C;B;D;D;Cameo
+Khnum;Phenomenon;E;E;E;A;E;E;Oingo
+Osiris;Natural Humanoid;E;D;D;C;D;D;Daniel J. D'Arby
+Sethan;Natural Non-Humanoid;D;D;E;C;D;D;Alessi
+Tenore Sax;Phenomenon;E;E;D;A;E;E;Kenny G.
+Tohth;Artificial Non-Humanoid;E;E;E;A;E;E;Boingo
+Dark Blue Moon;Natural Humanoid;C;C;C;B;C;D;Impostor Captain Tennille
+Emperor;Artificial Non-Humanoid;B;B;B;C;E;E;Hol Horse
+Ebony Devil;Natural Non-Humanoid;D;D;A;B;D;B;Devo
+Empress;Natural Humanoid;C;E;A;A;D;D;Nena
+Hanged Man;Natural Humanoid;C;A;A;B;D;D;J. Geil
+Hermit Purple;Natural Non-Humanoid;D;C;D;A;D;E;Joseph Joestar (old)
+Hierophant Green;Artificial Humanoid;C;B;A;B;C;D;Noriaki Kakyoin
+Justice;Natural Non-Humanoid;D;E;A;A;E;E;Enya the Hag
+Lovers;Natural Humanoid;E;D;A;A;D;E;Steely Dan
+Magician's Red;Natural Humanoid;B;B;C;B;C;D;Muhammad Avdol
+Silver Chariot;Artificial Humanoid;C;A;C;B;B;C;Jean Pierre Polnareff
+Star Platinum;Natural Humanoid;A;A;C;A;A;A;Kujo Jotaro
+Strength;Artificial Non-Humanoid;B;D;D;A;E;E;Forever
+Sun;Natural Non-Humanoid;B;E;A;A;E;E;Arabia Fats
+The Fool;Artificial Non-Humanoid;B;C;D;C;D;C;Iggy
+The World;Natural Humanoid;A;A;C;A;B;B;Dio Brando
+Tower of Gray;Natural Non-Humanoid;E;A;A;C;E;E;Gray Fly
+Wheel of Fortune;Artificial Non-Humanoid;B;D;D;A;E;D;ZZ
+Yellow Temperance;Natural Non-Humanoid;D;C;E;A;E;D;Rubber Soul
+Achtung Baby;Phenomenon;E;E;None;A;E;A;Shizuka Joestar
+Aqua Necklace;Natural Humanoid;C;C;A;A;C;E;Katagiri Anjuro
+Atom Heart Father;Phenomenon;E;E;None;A;E;E;Kira Yoshihiro
+Bad Company;Natural Humanoid;B;B;C;B;C;C;Keicho Nijimura
+Boy II Man;Natural Humanoid;C;B;B;A;C;C;Ken Oyanagi
+Cheap Trick;Natural Humanoid;E;E;E;A;E;E;Masazo Kinoto
+Cinderella;Artificial Humanoid;D;C;C;C;A;C;Aya Tsuji
+Crazy Diamond;Natural Humanoid;A;A;D;B;B;C;Higashikata Josuke
+Enigma;Artificial Humanoid;E;E;C;A;C;C;Terunosuke Miyamoto
+Earth Wind and Fire;Phenomenon;C;C;None;A;C;C;Mikitaka Hazekura
+Harvest;Natural Non-Humanoid;E;B;A;A;E;C;Shigekiyo Yangu
+Heaven's Door;Natural Humanoid;D;B;B;B;C;A;Kishibe Rohan
+Highway Star;Natural Humanoid;C;B;A;A;E;C;Yuya Fungami
+Killer Queen;Natural Humanoid;A;B;D;B;B;A;Kira Yoshikage
+Sheer Heart Attack;Artificial Humanoid;A;C;A;A;E;A;Kira Yoshikage
+Bites the Dust;Natural Humanoid;B;B;A;A;D;A;Kira Yoshikage
+Love Deluxe;Phenomenon;B;B;C;A;E;B;Yukako Yamagishi
+Pearl Jam;Natural Non-Humanoid;E;C;B;A;E;C;Tonio Trussardi
+Ratt;Artificial Non-Humanoid;B;C;D;B;E;C;Bug-Eaten Not Bug-Eaten
+Red Hot Chili Pepper;Natural Humanoid;A;A;A;A;C;A;Akira Otoishi
+Super Fly;Artificial Non-Humanoid;E;E;None;A;E;E;Toyohiro Kanedaichi
+Surface;Phenomenon;B;B;C;B;C;C;Toshikazu Hazamada
+The Lock;Artificial Non-Humanoid;E;E;A;A;E;E;Tamami Kobayashi
+The Hand;Artificial Humanoid;B;B;D;C;C;C;Nijimura Okuyasu
+Echoes (ACT1);Natural Non-Humanoid;E;E;B;B;C;A;Hirose Koichi
+Echoes (ACT2);Artificial Humanoid;C;D;B;B;C;A;Hirose Koichi
+Echoes (ACT3);Artificial Humanoid;B;B;C;B;C;A;Hirose Koichi
+Star Platinum: The World;Natural Humanoid;A;A;C;E;A;C;Kujo Jotaro
+Stray Cat;Phenomenon;B;E;None;A;E;C;Tama
+Black Sabbath;Artificial Humanoid;A;A;A;A;E;E;Polpo
+Baby Face;Artificial Non-Humanoid;A;B;A;A;E;A;Melone
+Gold Experience;Natural Humanoid;C;A;C;D;C;A;Giorno Giovanna
+Sticky Fingers;Natural Humanoid;A;A;C;D;C;D;Bruno Bucciarati
+Metallica;Phenomenon;C;C;C;A;C;C;Risotto Nero
+Purple Haze;Natural Humanoid;A;B;C;E;E;B;Pannacotta Fugo
+Moody Blues;Artificial Humanoid;C;C;A;A;C;C;Leone Abbacchio
+Sex Pistols;Natural Humanoid;E;C;B;A;A;B;Guido Mista
+The Grateful Dead;Artificial Humanoid;B;E;B;A;E;C;Prosciutto
+Aerosmith;Artificial Non-Humanoid;B;B;B;C;E;C;Narancia Ghirga
+Beach Boy;Artificial Non-Humanoid;C;B;B;C;C;A;Pesci
+Man in the Mirror;Natural Humanoid;C;C;B;D;C;E;Illuso
+Baby Face (GoGo);Artificial Non-Humanoid;A;B;A;A;C;C;Melone
+Chariot Requiem;Natural Humanoid;E;E;A;A;E;A;Jean Pierre Polnareff
+Clash;Natural Non-Humanoid;D;A;B;A;A;C;Squalo
+Gold Experience Requiem;Natural Humanoid;Infinite;Infinite;Infinite;Infinite;Infinite;Infinite;Giorno Giovanna
+Green Day;Artificial Humanoid;A;C;A;A;E;A;Cioccolata
+King Crimson;Natural Humanoid;A;A;E;E;B;Infinite;Diavolo
+Kraft Work;Artificial Humanoid;A;A;E;C;E;E;Sale
+Little Feet;Artificial Humanoid;D;B;E;A;D;C;Formaggio
+Mr.President;Phenomenon;E;E;E;A;E;E;Coco Jumbo
+Notorious B.I.G;Phenomenon;A;Infinite;Infinite;Infinite;E;A;Carne
+Oasis;Artificial Non-Humanoid;A;A;B;A;E;C;Secco
+Rolling Stones;Natural Non-Humanoid;None;B;A;A;E;None;Scolippi
+Soft Machine;Artificial Humanoid;A;C;E;A;D;E;Mario Zucchero
+Spice Girl;Natural Humanoid;A;A;C;B;D;C;Trish Una
+Talking Head;Phenomenon;E;E;B;A;E;E;Tiziano
+White Album;Artificial Non-Humanoid;A;C;C;A;E;E;Ghiaccio
+Whitesnake;Natural Humanoid;A;D;B;A;C;E;Enrico Pucci
+C-Moon;Natural Humanoid;None;B;B;B;A;D;Enrico Pucci
+Jail House Lock;Artificial Humanoid;None;C;B;A;None;None;Miuccia Miuller
+Stone Free;Natural Humanoid;A;B;C;A;C;A;Kujo Jolyne
+Goo Goo Dolls;Artificial Humanoid;D;C;B;D;B;B;Guess
+Under World;Artificial Humanoid;None;C;A;C;None;None;Donatello Versus
+Sky High;Natural Non-Humanoid;None;None;B;C;None;None;Rikiel
+Bohemian Rhapsody;Phenomenon;None;None;Infinite;A;None;None;Ungalo
+Burning Down the House;Phenomenon;None;None;None;None;None;None;Emporio Alnino
+Diver Down;Artificial Humanoid;A;A;E;C;B;B;Narciso Anasui
+Dragon's Dream;Artificial Non-Humanoid;None;None;None;A;None;None;Kenzou
+Foo Fighters;Phenomenon;B;A;C;A;C;B;F.F.
+Green, Green Grass of Home;Natural Humanoid;None;C;A;A;A;E;The Green Baby
+Highway to Hell;Artificial Non-Humanoid;C;C;A;C;C;C;Thunder McQueen
+Kiss;Natural Humanoid;A;A;A;A;C;A;Ermes Costello
+Jumpin' Jack Flash;Artificial Humanoid;B;C;B;A;D;E;Lang Rangler
+Limp Bizkit;Phenomenon;None;B;B;A;C;E;Sports Maxx
+Made in Heaven;Natural Non-Humanoid;B;Infinite;C;A;C;A;Enrico Pucci
+Manhattan Transfer;Artificial Non-Humanoid;E;E;A;A;A;C;Johngalli A
+Marilyn Manson;Artificial Humanoid;E;A;A;A;A;C;Miraschon
+Planet Waves;Natural Humanoid;A;B;A;A;E;E;Viviano Westwood
+Survivor;Natural Non-Humanoid;E;E;E;C;E;E;Guccio
+Weather Report;Artificial Humanoid;A;B;C;A;E;A;Weather Report
+Yo-Yo Ma;Natural Humanoid;C;D;A;A;D;C;D an G
+20th Century Boy;Artificial Non-Humanoid;None;C;None;A;D;C;Magent Magent
+Ball Breaker;Artificial Humanoid;A;A;D;B;C;B;Gyro Zeppeli
+Boku no Rhythm wo Kiitekure;Natural Humanoid;B;C;C;B;E;C;Oyecomova
+Catch the Rainbow;Artificial Non-Humanoid;C;C;B;B;D;D;Blackmore
+Chocolate Disco;Artificial Non-Humanoid;None;C;C;B;A;D;D-I-S-C-O
+Civil War;Artificial Humanoid;None;C;C;B;C;None;Axl RO
+Cream Starter;Artificial Non-Humanoid;D;C;C;A;E;B;Hot Pants
+Dirty Deeds Done Dirt Cheap;Natural Humanoid;A;A;C;A;A;A;Funny Valentine
+D4C Love Train;Phenomenon;A;A;C;A;A;C;Funny Valentine
+Hey Ya!;Artificial Humanoid;E;E;E;B;E;E;Pocoloco
+In a Silent Way;Artificial Humanoid;C;C;D;A;D;B;Sandman
+Mandom;Artificial Non-Humanoid;None;A;None;E;None;C;Ringo Roadagain
+Oh! Lonesome Me;Artificial Non-Humanoid;E;C;C;B;C;D;Mountain Tim
+Scary Monsters;Phenomenon;B;B;D;A;C;B;Dr. Ferdinand
+Sugar Mountain;Phenomenon;E;E;E;A;E;E;Sugar Mountain
+Tatoo You!;Phenomenon;None;E;C;B;E;E;Eleven Men
+Ticket to Ride;Phenomenon;E;E;E;C;E;C;Lucy Steel
+Tomb of the Boom;Natural Humanoid;D;C;C;B;C;C;Boom Boom Family
+Tubular Bells;Phenomenon;D;D;D;A;E;B;Mike O.
+Tusk ACT1;Natural Non-Humanoid;E;E;D;B;E;A;Johnny Joestar
+Tusk ACT2;Artificial Humanoid;D;D;B;C;C;A;Johnny Joestar
+Tusk ACT3;Artificial Humanoid;D;D;B;D;C;A;Johnny Joestar
+Tusk ACT4;Artificial Humanoid;A;B;A;A;B;E;Johnny Joestar
+Wired;Artificial Non-Humanoid;D;B;B;B;D;D;Pork Pie Hat Kid
+Born This Way;Artificial Humanoid;C;B;A;A;E;E;Kei Nijimura
+California King Bed;Artificial Non-Humanoid;None;None;E;B;E;E;Higashikata Daiya
+Fun Fun Fun;Natural Non-Humanoid;E;C;D;A;E;E;Ojiro Sasame
+Nut King Call;Artificial Humanoid;C;D;C;A;E;A;Higashikata Joshu
+Paisley Park;Natural Humanoid;None;None;A;A;D;C;Hirose Yasuho
+Paper Moon King;Phenomenon;E;E;C;C;B;E;Higashikata Tsurugi
+Soft & Wet;Artificial Humanoid;C;B;D;B;C;A;Kujo Josefumi
+Manic Depression;Humanoid;C;A;E;B;B;C;Massimo Volpe
+Voodoo Child;Humanoid;B;A;E;E;B;B;Sheila E
+All Along Watchtower;None;C;B;A;A;A;E;Cannolo Murolo
+Dolly Dagger;None;A;A;C;A;B;C;Vittorio Cataldi
+Nightbird Flying;None;E;A;A;A;E;E;Angelica Attanasio
+Purple Haze Distortion;Natural Humanoid;A;B;E;E;C;A;Pannacotta Fugo
+Rainy Day Dream Away;None;E;B;A;A;E;E;Vladimir Kocaqi
+Remote Romance;Humanoid;E;D;Infinite;B;C;E;Dixie Flatline
+House of Holy;Phenomenon;E;B;C;A;D;D;Dija Maker
