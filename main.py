@@ -453,7 +453,7 @@ while True:
                     and stands.users_name=appearances.users_name
                     and appearances.part=parts.number
                     and parts.abilities=\"Stands\";'''
-            print(f"\n{stand} has appeared in:\n")
+            print(f"\n{stand} has appeared in:")
         # If input is stand user name
         else:
             user = "\"" + input("\nEnter a stand user name: ").title() + "\""
@@ -461,16 +461,16 @@ while True:
                     FROM parts, appearances
                     WHERE appearances.users_name={user}
                     and appearances.part=parts.number;'''
-            print(f"\n{user} has appeared in:\n")
+            print(f"\n{user} has appeared in:")
         # Execute query and outputs
         cursor.execute(query)
         for part, name, season, status, year, location in cursor:
-            print(f"Part {part}: {name}\nSeason: {season}", end = ', ')
+            print(f"\nPart {part}: {name}\nSeason: {season}", end = ', ')
             if status != "Not Aired":
                 print(year)
             else:
                 print(status)
-            print(f"Location: {location}\n")
+            print(f"Location: {location}")
 
     # Wrong input
     else:
