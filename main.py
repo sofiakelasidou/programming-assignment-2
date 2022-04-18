@@ -383,7 +383,7 @@ while True:
             role = "\"" +  "Minor Character" + "\""
         query = f'''SELECT appearances.users_name, appearances.voice_actor, appearances.role, appearances.part, parts.title, episodes.episode, episodes.title 
                 FROM appearances, parts, episodes
-                
+                WHERE appearances.role={role}
                 and appearances.part=parts.number
                 and appearances.first_appearance=episodes.number'''
         if input("\nWould you like to choose a specific part? (Y/N): ").upper() == "Y":
