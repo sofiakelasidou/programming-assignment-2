@@ -429,8 +429,7 @@ while True:
             if i != 6:
                 query += "\nNATURAL JOIN\n"
         query += '''
-        GROUP BY type
-        ORDER BY type'''
+        ORDER BY type;'''
         cursor.execute(query)
         print("\nMost common rankings:")
         print("\n{:<23} | {:<5} | {:<5} | {:<5} | {:<7} | {:<9} | {:<9}".format("Type", "Power", "Speed", "Range", "Stamina", "Precision", "Potential"))
